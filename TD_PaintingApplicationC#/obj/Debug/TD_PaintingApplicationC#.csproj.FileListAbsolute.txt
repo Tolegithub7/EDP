@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\TD_PaintingApplicationC#\TD_PaintingApplicationC#\bin\Debug\TD_PaintingApplicationC#.exe.config
+C:\Users\HP\source\repos\TD_PaintingApplicationC#\TD_PaintingApplicationC#\bin\Debug\TD_PaintingApplicationC#.exe
+C:\Users\HP\source\repos\TD_PaintingApplicationC#\TD_PaintingApplicationC#\bin\Debug\TD_PaintingApplicationC#.pdb
+C:\Users\HP\source\repos\TD_PaintingApplicationC#\TD_PaintingApplicationC#\obj\Debug\TD_PaintingApplicationC#.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\TD_PaintingApplicationC#\TD_PaintingApplicationC#\obj\Debug\TD_PaintingApplicationC_.Form1.resources
+C:\Users\HP\source\repos\TD_PaintingApplicationC#\TD_PaintingApplicationC#\obj\Debug\TD_PaintingApplicationC_.Properties.Resources.resources
+C:\Users\HP\source\repos\TD_PaintingApplicationC#\TD_PaintingApplicationC#\obj\Debug\TD_PaintingApplicationC#.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\TD_PaintingApplicationC#\TD_PaintingApplicationC#\obj\Debug\TD_PaintingApplicationC#.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TD_PaintingApplicationC#\TD_PaintingApplicationC#\obj\Debug\TD_PaintingApplicationC#.exe
+C:\Users\HP\source\repos\TD_PaintingApplicationC#\TD_PaintingApplicationC#\obj\Debug\TD_PaintingApplicationC#.pdb
